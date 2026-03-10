@@ -1,0 +1,3 @@
+Explication des choix CSS : 
+
+Afin de délimiter visuellement les parties déjà définis dans le html, j'ai ajouté un fond de couleurs pour Header ainsi qu'un espacement entre chaque sections (Hero, Pourquoi, Conseils, etc). J'ai également ugmenter la taille des titres ainsi que d'informations importantes, comme les liens. Les liens on également gagné un changement de couleur lorsque la souris est passé dessus afin de les reconnaitres comme tel. Pour gagner en place et en rapidité de lecture, les articles de Pourquoi et de Témoignages on était mis en colones plutôt qu'en ligne et on gagné un fond de couleurs pour les mettrent en valeur. La pages est quasiment entièrement dans es ton de bleus par association au voyage.
