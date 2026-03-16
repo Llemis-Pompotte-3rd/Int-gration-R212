@@ -1,0 +1,6 @@
+Explication des choix CSS : 
+
+Le root contient les objets visuels réutilisé, comme les couleurs et tailles de textes afin de pouvoir les 
+réutiliser facilement. Afin de gagner en poid, les titres ainsi que le header et le footer son rassemblés et suivent 
+la même stylization. Le hero est en display flex afin de le centré et de le render plus lisible, et à également 
+gagné en taille par rapport aux autres articles. Les medias quieries en fin de code permette d'adapter automatiquement le CSS à la taille de l'écran.
