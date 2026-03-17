@@ -1,0 +1,80 @@
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  color: #333;
+  background-color: aliceblue;
+}
+
+
+header {
+    background-color: rgb(76, 174, 219);
+    font-weight: bold;
+    color: aliceblue;
+    padding: 1.5rem;
+}
+
+header a {
+    color: aliceblue;
+    font-size: 3ch;
+}
+
+header a:hover {
+    color:rgb(42, 56, 136);
+}
+
+header ul {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+main {
+  max-width: 110ch;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+h1 {
+    font-size: 8ch;
+  margin-top: 0;
+}
+
+
+.hero {
+    margin-bottom: 10ch;
+}
+
+.hero a {
+    font-size: 5ch;
+    color: rgb(76, 174, 219);
+}
+
+.hero a:hover {
+    color:rgb(34, 82, 104);
+}
+
+#pourquoi, #temoignages {
+    margin-bottom: 10ch;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article {
+    flex: 3;
+    justify-content: space-around;
+    margin: 5ch;
+    background-color: rgb(189, 222, 252);
+    color: rgb(42, 56, 136);
+}
+
+footer {
+    margin-top: 5ch;
+    padding: 1.5rem;
+     background-color: rgb(76, 174, 219);
+     color: rgb(42, 56, 136);
+}
+
+footer a {
+    color:rgb(42, 56, 136);
+}
