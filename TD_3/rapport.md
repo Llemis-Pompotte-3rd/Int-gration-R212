@@ -1,0 +1,1 @@
+## Expliquez le modèle événement → état → rendu avec un exemple de votre choix (pas un exemple du sujet)

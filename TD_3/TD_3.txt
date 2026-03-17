@@ -1,0 +1,15 @@
+1.2)
+La capacité à dessiner sur la page que se soit en créant simplement des formes où en dessinant librement n'est pas inhérent au HTML/CSS.
+Le fait de pouvoir déplacer des images est également un spécificité interactive qu'on ne peux pas créer avec du HTML/CSS.
+Le fait de mémoriser l'état de poste, notamment par rapport à un compteur de like, est impossible à créer seulement avec du CSS.
+Tout types de formulaires, comme ceux d'inscription ou de connexion, ne peuvent être géré par du HTLM/CSS.
+
+2.1)
+
+Un menu déroulant qui s'ouvre au clic : Clic sur le bouton flèche en bas -> menu = ouvert -> ajouter classe .is-open
+Un carrousel de photos (clic sur "suivant") : clic sur bouton flèche -> SI position_liste = max ALORS position_liste = 0 SINON position_liste +=1 -> photo changée
+Un champ de recherche qui filtre une liste : bouton Entrée -> liste = all where string is found -> contenue filtré selon recherche
+Un bouton "Ajouter au panier" : clic sur bouton -> panier += article -> on peut voir l'article dans le panier
+Une FAQ accordéon (clic sur question → réponse apparaît) : clic sur question -> réponse = visible = ajouter classe .is-visible
+
+3.1)
