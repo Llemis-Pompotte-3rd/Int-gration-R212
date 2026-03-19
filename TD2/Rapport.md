@@ -1,0 +1,3 @@
+Le CSS sert à la mise en forme et l'esthétique d'un site. Il ne permettra pas de créer les blocs constituant le site mais de les placer et de les designer.
+Le CSS doit permettre de rendre le site lisible et accessible à tous, tout en prenant le moin de place possible afin que les pages se chargent facilement.
+L'utilisation de Flexbox ou de Grid permet de faciliter la mise en page et de l'adapter selon les formats d'écran.
